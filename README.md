@@ -5,8 +5,8 @@ Caso não tenha, baixe:
 - VS Code (e suas extensões).
 - No terminal, digite "npm install @Azure" e "npm install dotenv --save".
 
-Primeiro, abra a pasta da YOASYS no seu VS Code.
-Depois de abrir o YOASYS.js, abra o terminal para executar.
-Ao abrir o terminal, digite "node YOASYS.js".
+Primeiro, abra a pasta da IOASYS no seu VS Code.
+Depois de abrir o IOASYS.js, abra o terminal para executar.
+Ao abrir o terminal, digite "node IOASYS.js".
 Assim, aparecerá uma mensagem padrão do chat, e você poderá fazer suas perguntas.
 Digite "sair" para encerrar a conversa.
